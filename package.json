@@ -1,0 +1,18 @@
+{
+  "name": "typescript-server",
+  "version": "1.0.0",
+  "description": "A NodeJS Express boilerplate to create a web server",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "nodejs",
+    "node",
+    "express",
+    "boilerplate"
+  ],
+  "author": "Aurélien Vernay Solutions",
+  "license": "ISC"
+}
